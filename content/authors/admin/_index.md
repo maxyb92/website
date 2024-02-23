@@ -68,7 +68,7 @@ social:
 highlight_name: true
 ---
 
-I am a postdoctoral research fellow at HEC Paris. I hold a PhD in Quantitative Marketing from the University of Mannheim.
+I'm a Postdoctoral Research Fellow at HEC Paris. I hold a PhD in Quantitative Marketing from the University of Mannheim.
 
 My multi-method research projects cover social influence in user-generated content networks–combining both secondary and experimental data. My research interests meet at the interface of empirical quantitative marketing and information systems. Specifically, I research sales-driven influencer marketing and its impact on society.
 {style="text-align: justify;"}
