@@ -42,15 +42,4 @@ sections:
       title: Hi, I'm Max!
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
-      # Contact (add or remove contact options as necessary)
-      email: maximilian.beichert@external.hec.fr
-    design:
-      columns: '2'
 ---
