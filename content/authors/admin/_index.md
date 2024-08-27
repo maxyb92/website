@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PostDoc in Quantitative Marketing
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: HEC Paris
-    url: https://www.hec.fr/
+  - name: Bocconi University
+    url: https://www.unibocconi.it/en
 
 # Short bio (displayed in user profile at end of posts)
 bio: My multi-method research projects cover social influence in user-generated content networks–combining both secondary and experimental data. My research interests meet at the interface of empirical quantitative marketing and information systems. Specifically, I research sales-driven influencer marketing and its impact on society.
@@ -68,7 +68,7 @@ social:
 highlight_name: true
 ---
 
-I'm a Postdoctoral Research Fellow at HEC Paris. I hold a PhD in Quantitative Marketing from the University of Mannheim.
+I'm an Assistant Professor at Bocconi University. Prior to this role, I spent a year as a Postdoctoral Researcher in France at HEC Paris. I hold a PhD in Quantitative Marketing from the University of Mannheim.
 
 My multi-method research projects cover social influence in user-generated content networks–combining both secondary and experimental data. My research interests meet at the interface of empirical quantitative marketing and information systems. Specifically, I research sales-driven influencer marketing and its impact on society.
 {style="text-align: justify;"}
